@@ -1,2 +1,1 @@
-# NES_MMC1_CPLD
- NES CPLD implementation of MMC1 Mapper
+Реализация маппера MMC1 для EPM3064ATC44. Сигнал М2 повесить на 37 пин Альтеры (Global Clock), romsel на 40 пин. Остальные сигналы в зависимости от вашей разводки.
